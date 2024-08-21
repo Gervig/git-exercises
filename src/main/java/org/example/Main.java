@@ -1,7 +1,7 @@
 package org.example;
 
 public class Main {
-    private static void FizzBuzz() {
+    private static void fizzBuzz() {
         for (int i = 1; i <= 100; i++) {
             System.out.println(i);
             if ((i % 3) == 0 && (i % 5) == 0) {
