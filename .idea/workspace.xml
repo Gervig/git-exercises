@@ -15,12 +15,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_COMMON_BRANCH" value="Casper-branch" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2ky6lsxIn8ixSA2NnjCTebaJsH0" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -36,6 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/gervi/OneDrive/Skrivebord/Uddannelse/GitHub/git-exercises/src/main/java/org/example/Main.java",
     "vue.rearranger.settings.migration": "true"
