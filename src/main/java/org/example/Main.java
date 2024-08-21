@@ -1,23 +1,20 @@
 package org.example;
 
 public class Main {
-    public static void fizzBuzz(){
-        for(int i = 1; i < 200; i++){
-            String res = "";
-            if(i%3==0){
-                res += "Fizz";
-            }
-            if(i%5==0){
-                res += "Buzz";
-            }
-            if(i%3!=0 && i%5!=0){
-                res += "" + i;
-            }
-            System.out.println(res);
-        }
-}
-    public static void main(String[] args) {
-        fizzBuzz();
-    }
 
+    public static void main(String[] args) {
+        for(int i = 1; i <= 100; i++){
+            if(i % 3 == 0 && i % 5 == 0){
+                System.out.println("FizzBuzz");
+            } else if (i % 3 == 0) {
+                System.out.println("Fizz");
+            } else if (i % 5 == 0) {
+                System.out.println("Buzz");
+            }
+            else {
+                System.out.println(i);
+
+            }
+        }
+    }
 }
